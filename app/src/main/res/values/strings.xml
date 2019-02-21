@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExamenPerdidaEvaluacion</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_insurance">InsuranceActivity</string>
+    <string name="camp1">Nombre</string>
+    <string name="camp2">Edad</string>
+    <string name="camp3">Fecha Matriculación</string>
+    <string name="camp4">Marca Vehículo</string>
+</resources>
